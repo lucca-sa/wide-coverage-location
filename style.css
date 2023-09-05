@@ -153,12 +153,10 @@ p {
         width: 100%;
         height: auto;
         position: static;
-        justify-content: center;
-        align-items: center;
     }
 
     .img-logo {
-        margin: 0;
+        margin: 0 auto;
         position: static;
         width: 100%;
         padding: 40px;
